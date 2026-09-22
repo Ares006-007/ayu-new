@@ -22,8 +22,8 @@ export default function Contact() {
             >
               Message us on WhatsApp
             </a>
-            <a href="mailto:hello@ayuhealth.in" className={styles.secondaryBtn}>
-              Email sales
+            <a href="mailto:shaikajhaj@gmail.com" className={styles.secondaryBtn}>
+              Email contact
             </a>
           </div>
         </div>

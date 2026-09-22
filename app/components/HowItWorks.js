@@ -22,17 +22,17 @@ export default function HowItWorks() {
             </div>
             
             <div className={styles.stats}>
-              <div className={styles.stat}>
-                <span className={styles.statNum}>300+</span>
-                <span className={styles.statLabel}>Active patients</span>
+              <div className={styles.stat} style={{ flex: 1, minWidth: '200px' }}>
+                <span className={styles.statNum} style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>WhatsApp Native</span>
+                <span className={styles.statLabel} style={{ marginTop: 0, fontSize: '1rem', lineHeight: '1.5' }}>Familiar interface for instant booking, reports, and reminders.</span>
               </div>
-              <div className={styles.stat}>
-                <span className={styles.statNum}>67</span>
-                <span className={styles.statLabel}>Healthcare partners</span>
+              <div className={styles.stat} style={{ flex: 1, minWidth: '200px' }}>
+                <span className={styles.statNum} style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Multilingual</span>
+                <span className={styles.statLabel} style={{ marginTop: 0, fontSize: '1rem', lineHeight: '1.5' }}>Guidance in regional languages for non-English speakers.</span>
               </div>
-              <div className={styles.stat}>
-                <span className={styles.statNum}>4</span>
-                <span className={styles.statLabel}>Languages</span>
+              <div className={styles.stat} style={{ flex: 1, minWidth: '200px' }}>
+                <span className={styles.statNum} style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Care Continuity</span>
+                <span className={styles.statLabel} style={{ marginTop: 0, fontSize: '1rem', lineHeight: '1.5' }}>Seamless flow from doctors to labs and pharmacies.</span>
               </div>
             </div>
           </div>

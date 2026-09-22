@@ -9,7 +9,7 @@ export const viewport = {
 export const metadata = {
   title: "AYU — Healthcare on WhatsApp | Built by Shaik Mohammad Ajhaj",
   description:
-    "Ayu connects doctors, patients, and pharmacies through WhatsApp. No new apps, no behavior change. 300+ patients, 67 healthcare partners across India.",
+    "Ayu connects doctors, patients, and pharmacies through WhatsApp. No new apps, no behavior change. Building the future of accessible, multilingual healthcare.",
   keywords:
     "AYU, healthcare, WhatsApp, OPD booking, lab reports, clinic coordination, pharmacy, India, healthtech startup",
   authors: [{ name: "Shaik Mohammad Ajhaj" }],
